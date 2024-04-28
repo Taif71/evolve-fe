@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import { useLogoutMutation } from '@/redux/features/apis/auth-api';
 
-const AUTO_LOGOUT_TIME = 30000; // 30 seconds in milliseconds
+const AUTO_LOGOUT_TIME = 120000; // 30 seconds in milliseconds
 
 const AutoLogout = () => {
 const [logout] = useLogoutMutation();

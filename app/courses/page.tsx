@@ -6,13 +6,13 @@ const CoursesPage = () => {
   return (
     <div>
       <div>
-        <div className="">          
+        <div className="">
           <NavBar />
           <Course />
         </div>
       </div>
     </div>
-    
+
   )
 };
 

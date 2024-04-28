@@ -1,69 +1,27 @@
 export const data: any = [{
-    year: 2021,
-    semester: 'Tisemester 2',
-    campus: "Sydney/On Campus",
+    id: 1,
+    year: 2022,
+    term: '1',
     course: 'ACCY902',
     status: 'Complete'
   }, {
-    year: 2021,
-    semester: 'Tisemester 2',
-    campus: "Sydney/On Campus",
+    id: 2,
+    year: 2022,
+    term: '2',
     course: 'ACCY963',
     status: 'Complete'
   },
   {
-    year: 2021,
-    semester: 'Tisemester 2',
-    campus: "Sydney/On Campus",
+    id: 3,
+    year: 2022,
+    term: '3',
     course: 'FIN 923',
     status: 'Complete'
   },
   {
-    year: 2021,
-    semester: 'Tisemester 3',
-    campus: "Sydney/On Campus",
+    id: 4,
+    year: 2023,
+    term: '1',
     course: 'ACCY925',
-    status: 'Complete'
-  },
-  {
-    year: 2021,
-    semester: 'Tisemester 3',
-    campus: "Sydney/On Campus",
-    course: 'ACCY902',
-    status: 'Complete'
-  },
-  {
-    year: 2021,
-    semester: 'Tisemester 3',
-    campus: "Sydney/On Campus",
-    course: 'ACCY902',
-    status: 'Complete'
-  },
-  {
-    year: 2020,
-    semester: 'Tisemester 1',
-    campus: "Sydney/On Campus",
-    course: 'ACCY901',
-    status: 'Complete'
-  },
-  {
-    year: 2020,
-    semester: 'Tisemester 1',
-    campus: "Sydney/On Campus",
-    course: 'ECON910',
-    status: 'Complete'
-  },
-  {
-    year: 2020,
-    semester: 'Tisemester 2',
-    campus: "Sydney/On Campus",
-    course: 'FIN 921',
-    status: 'Complete'
-  },
-  {
-    year: 2020,
-    semester: 'Tisemester 3',
-    campus: "Sydney/On Campus",
-    course: 'ACCY918',
-    status: 'Complete'
-  },];
+    status: 'Incomplete'
+  }];
