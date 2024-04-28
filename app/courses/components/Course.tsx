@@ -27,7 +27,7 @@ const Course = () => {
         </table>
       </div>
 
-      <div className="mt-5">
+      {/* <div className="mt-5">
         <h2>DIPLOMA OF COUNSELLING SUBJECTS</h2>
         <div>
           <h3>01 - Foundations of Counselling</h3>
@@ -45,7 +45,7 @@ const Course = () => {
           <h3>04 - Theories of Counselling</h3>
           <p>Foundations of Counselling is the foundation subject of the unique and inspiring CHC51015 Diploma of counselling offered by evolve college</p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
